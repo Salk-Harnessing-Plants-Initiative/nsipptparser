@@ -45,11 +45,10 @@ You can probably use ``pillow`` to convert the base64 thumbnail to an image:
 
 .. image:: ./example/thumbnail.jpg
             
-Requirements
-^^^^^^^^^^^^
 
 Compatibility
 -------------
+Known to work on Python 3.7
 
 Licence
 -------
