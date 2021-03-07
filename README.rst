@@ -8,6 +8,7 @@ nsipptparser
 .. image:: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal.png
    :target: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal
    :alt: Latest Travis CI build status
+   
 
 Very simple package for parsing .nsippt files to json. Use Python 3.4 and up.
 
@@ -33,6 +34,10 @@ Usage
             json.dump(data, f, indent=4)
 
 Note: All values are parsed as strings, so you will have to parse the strings further yourself.
+
+You can probably use ``pillow`` to convert the base64 thumbnail to an image:
+
+.. image:: ./example/thumbnail.jpg
             
 Installation
 ------------
