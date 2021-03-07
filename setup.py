@@ -25,7 +25,7 @@ setup(
     description="Very simple package for parsing .nsippt files to json",
     long_description=read("README.rst"),
 
-    packages=find_packages(exclude=('tests',)),
+    packages=find_packages(exclude=('tests','example')),
 
     install_requires=[],
 
