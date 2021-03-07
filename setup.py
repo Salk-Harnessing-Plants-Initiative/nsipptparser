@@ -15,7 +15,7 @@ def read(filename):
 
 setup(
     name="nsipptparser",
-    version="0.1.0",
+    version="0.1.1",
     url="https://github.com/Salk-Harnessing-Plants-Initiative/nsipptparser",
     license='MIT',
 
