@@ -9,13 +9,16 @@ nsipptparser
    :target: https://travis-ci.org/kragniz/cookiecutter-pypackage-minimal
    :alt: Latest Travis CI build status
 
-Very simple package for parsing .nsippt files to json
+Very simple package for parsing .nsippt files to json. Use Python 3.4 and up.
 
 Usage
 -----
 
 Installation
 ------------
+```
+pip install nsipptparser
+```
 
 Requirements
 ^^^^^^^^^^^^
@@ -25,6 +28,7 @@ Compatibility
 
 Licence
 -------
+MIT
 
 Authors
 -------
