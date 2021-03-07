@@ -16,9 +16,9 @@ Usage
 
 Installation
 ------------
-```
+``
 pip install nsipptparser
-```
+``
 
 Requirements
 ^^^^^^^^^^^^
