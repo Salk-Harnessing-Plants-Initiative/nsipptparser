@@ -15,7 +15,6 @@ Usage
 -----
 .. code-block:: python
 
-    pygments_style = 'sphinx'
     import nsipptparser
     import json
     
