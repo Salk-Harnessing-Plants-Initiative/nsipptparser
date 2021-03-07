@@ -12,6 +12,12 @@ nsipptparser
 
 Very simple package for parsing .nsippt files to json. Use Python 3.4 and up.
 
+Installation
+------------
+.. code-block:: shell
+
+    pip install nsipptparser
+
 Usage
 -----
 .. code-block:: python
@@ -39,12 +45,6 @@ You can probably use ``pillow`` to convert the base64 thumbnail to an image:
 
 .. image:: ./example/thumbnail.jpg
             
-Installation
-------------
-.. code-block:: shell
-
-    pip install nsipptparser
-
 Requirements
 ^^^^^^^^^^^^
 
