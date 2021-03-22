@@ -12,6 +12,8 @@ nsipptparser
 
 Very simple package for parsing .nsippt files to json. Use Python 3.4 and up.
 
+`.nsippt` files are a file type by [North Star Imaging](https://4nsi.com/)
+
 Installation
 ------------
 .. code-block:: shell
